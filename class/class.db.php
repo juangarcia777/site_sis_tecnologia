@@ -13,17 +13,6 @@
 	define("PASSWORD", "");
 	define("PATH", "https://".$host."/");	
 	define("REPOSITORY", "repository/");
-	
-
-	//define("HOST", "localhost");
-	//define("DBNAME", "portinari");
-	//define("USER", "root");
-	//define("PASSWORD", "");
-	//define("PATH", "http://".$host."/portinari/");	
-	//define("REPOSITORY", "repository/");
-	
-	
-		
 
 
 class DB{
